@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Reactjs,Nestjs**
+- 💬 Ask me about **Reactjs,Nestjs,MySQL**
 
 - 📫 How to reach me **youcefbounoua9@gmail.com**
 
