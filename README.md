@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnwyoucef&label=Profile%20views&color=0e75b6&style=flat" alt="bnwyoucef" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce website**
-
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **Reactjs,Nestjs,MySQL**
+- 💬 Ask me about **Reactjs,Angular,Nestjs,MySQL**
 
 - 📫 How to reach me **youcefbounoua9@gmail.com**
 
